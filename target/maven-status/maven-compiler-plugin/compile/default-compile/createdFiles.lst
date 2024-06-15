@@ -1,0 +1,5 @@
+com\alpro\pricetag\PriceTag.class
+com\alpro\pricetag\Login$1.class
+com\alpro\pricetag\Login.class
+com\alpro\pricetag\model\User.class
+com\alpro\pricetag\helper\Database.class
